@@ -14,7 +14,7 @@
 	<style type="text/css">
 	  body {
 		padding-bottom: 10px;
-		background:#fff url(<?=base_url()?>images/abstract.jpg) center top no-repeat;
+		background:#F5F6F8;
 	  }
 	  .sidebar-nav {
 		padding: 9px 0;
